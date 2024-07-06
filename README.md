@@ -1,6 +1,8 @@
+<h1 align="center"> Cloud Computing Repository</h1>
+https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
+<p align="center">This Repo contains all the things I have learned in CSYE 7374 : Advanced Cloud Computing Infrastructures</p>
 <p align="center">
-  <h1 align="center"> Cloud Computing Repository</h1>
-This Repo contains all the things I have learned in CSYE 7374 : Advanced Cloud Computing Infrastructures
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,aws,ansible,docker,python,github,git,kubernetes,vim,bash,jenkins,powershell" />
   </a>
