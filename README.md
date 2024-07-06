@@ -2,7 +2,7 @@
 This Repo contains all the things I have learned in CSYE 7374 : Advanced Cloud Computing Infrastructures
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=linux,aws,ansible,slurm,github,git,kubernetes,docker,vim" />
   </a>
 </p>
 <br/ >
