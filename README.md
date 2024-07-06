@@ -1,5 +1,5 @@
+                                      # Cloud Computing Repository
 <p align="center">
-  # Cloud Computing Repository
 This Repo contains all the things I have learned in CSYE 7374 : Advanced Cloud Computing Infrastructures
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,aws,ansible,docker,python,github,git,kubernetes,vim,bash,jenkins,powershell" />
